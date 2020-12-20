@@ -1,4 +1,4 @@
-# PiResNet: Data- & Knowledge-driven Turbulence Modeling
+# PiResNet: Data-driven Turbulence Modeling
 This code implements an axample of multivariate regression problems in tensor modeling as [Data- and Knowledge-driven Turbulence Modeling](https://github.com/Jackachao0618) —— a universal, inherently interpretable ML-based framework [(IMLF)]() with the kernel of a physics-inspired [Parameterized Tensorial Neural Network](https://github.com/Jackachao0618/PTNN) (denoted as [PTNN]()), which was first proposed by [Chao Jiang]() (2020). 
 Encouraging predictions are obtained, and in particular, physically realizable constraints are really statisfied for the first time using the [Progressive Iteration-type Realizability (PIR)](https://github.com/Jackachao0618/PTNN) algorithm developed by C. Jiang. When building on this code and/or using aspects of IMLF and PTNN (including tensorial neural network, [TNN]()), the following citations are suggested.
 
