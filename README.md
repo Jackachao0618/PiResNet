@@ -1,20 +1,22 @@
 # PiResNet: Data-driven Turbulence Modeling
-This code implements 
+This code implements an axample of multivariate regression problems in turbulence modeling —— a universal, inherently interpretable ML-based framework [(IMLF)]() with the kernel of a physics-inspired [Residual Neural Network](https://github.com/Jackachao0618/PiResNet) (denoted as [PiResNet]()). 
+
+
 form-constraint inverse modeling of clousre coefficients
 
 an axample of high-dimensional, multivariate parametric regression problems 
-in tensor modeling as [Data-driven Turbulence Modeling](https://github.com/Jackachao0618) —— a universal, inherently interpretable ML-based framework [(IMLF)]() with the kernel of a physics-inspired [Residual Neural Network](https://github.com/Jackachao0618/PiResNet) (denoted as [PTNN]()), which was first proposed by [Chao Jiang]() (2020). 
-Encouraging predictions are obtained, and in particular, physically realizable constraints are really statisfied for the first time using the [Progressive Iteration-type Realizability (PIR)](https://github.com/Jackachao0618/PTNN) algorithm developed by C. Jiang. When building on this code and/or using aspects of IMLF and PTNN (including tensorial neural network, [TNN]()), the following citations are suggested.
+ 
+
+Encouraging predictions are obtained, and in particular, physically realizable constraints are really statisfied for the first time using the [Progressive Iteration Realizability (PIR)](https://github.com/Jackachao0618/PIR) algorithm developed by C. Jiang. When building on this code and/or using aspects of IMLF and PiResNet, the following citations are suggested.
 
 #### For journal articles, proceeddings, etc..., we suggest:
 
 * Chao Jiang, Ricardo Vinuesa, Ruilin Chen, Junyi Mi, Shujin Laima, and Hui Li. "[Data-driven Reliable Turbulence Modeling through A Physics-inspired Residual Neural Network]()." Physics of Fluids (submitted).
 
-* Chao Jiang, Junyi Mi, Ricardo Vinuesa, and Hui Li. "Machine Learning A General-purpose Turbulence Model with Built-in Domain-Knowledge." Computer Methods in Applied Mechanics and Engineering (under preparation).
-* Chao Jiang and Hui Li. "Reliable and Explainable Machine-Learning Methods for Accelerating Closure Development." Journal of Fluid Mechanics (in progress).
+* Chao Jiang and Hui Li. "Machine Learning A General-purpose Turbulence Model with Built-in Domain-Knowledge." (in progress).
 * Chao Jiang and Hui Li. "On Realizability and Metrics of Data-driven Turbulence Models." Physical Review Fluids (in progress).
-* Chao Jiang and Hui Li. "Searching a Unified Stress-strain Paradigm across the Flow- and Geometry-topology using Parameterized Tensorial Neural Network."
-* Chao Jiang and Hui Li. "On Risks of Machine Learining in Turbulence Modeling: A Physical Perspective."
+* Chao Jiang and Hui Li. "Searching a Unified Stress-strain Paradigm across the Flow- and Geometry-topology using Parameterized Tensorial Neural Network." (in progress).
+* Chao Jiang and Hui Li. "On Risks of Machine Learining in Turbulence Modeling: A Physical Perspective." (in progress).
 
 Also see an earlier version:
 
@@ -23,7 +25,7 @@ Also see an earlier version:
 
 #### For presentations, posters, etc..., we suggest also including:
 
-Code of PTNN obtained at https://github.com/Jackachao0618/PTNN
+Code of PiResNet obtained at https://github.com/Jackachao0618/PiResNet
 
 #### Related References:
 
