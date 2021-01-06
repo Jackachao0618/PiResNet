@@ -31,9 +31,5 @@ This code is built on the open-source library TensorFlow, which requires the fol
 
 ## Contacts:
 
-Please free to contact me in case of questions:  Chao Jiang [jiangchao0451@hit.edu.cn]
-
-More Information in the ResearchGate profile: 
-https://www.researchgate.net/profile/Chao_Jiang44
-
+Please free to contact me in case of questions.
 
