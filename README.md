@@ -23,7 +23,11 @@ Code of PiResNet obtained at https://github.com/Jackachao0618/PiResNet
 
 This code is built on the open-source library TensorFlow, which requires the following python packages:
 
-(coming soon ... ... )
+	python 3.6.10
+	pytorch 1.6.0
+	matplotlib 3.2.2
+	numpy 1.19.1
+	scipy 1.5.2
 
 ## Contacts:
 
